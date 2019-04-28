@@ -39,15 +39,13 @@ Install [Git](https://git-scm.com/) if you do not have it.
 
 Open a terminal / console and clone this repository with the following command:
 ```
-git clone https://github.com/asanrom/Showdown-ChatBot.git Showdown-ChatBot
+git clone https://github.com/PokelandServer/Eaubot.git Eaubot
 ```
 
 If you have an old version of Showdown-ChatBot and you want to update it,  use `cd` to reach the directory of the bot and run:
 ```
-git pull https://github.com/asanrom/Showdown-ChatBot.git
+git pull https://github.com/PokelandServer/Eaubot.git
 ```
-
-You also can download [the last release](https://github.com/asanrom/Showdown-ChatBot/releases) of Showdown-ChatBot and decompress it if you prefer not using git
 
 Use `cd` to reach the directory of the bot and run the following command to install dependencies:
 ```
@@ -59,33 +57,20 @@ To start the bot, use the following command:
 npm start
 ```
 
-Configure your bot using the control panel. You can use the [Basic Configuration Guide](https://github.com/asanrom/Showdown-ChatBot/wiki/Basic-Configuration-Guide) as help.
-
 If you want to stop your bot, use `Ctrl + C` or kill the process by other way.
-
-
-Useful Documentation
-------------
-
- - [Frequently Asked Questions](https://github.com/asanrom/Showdown-ChatBot/wiki/Frequently-Asked-Questions)
- - [Commands List](https://github.com/asanrom/Showdown-ChatBot/wiki/Commands-List)
-
-For more guides and documentation, check the [Showdown-ChatBot Wiki](https://github.com/asanrom/Showdown-ChatBot/wiki)
 
 
 Add-ons
 ------------
 
-Add-ons are like optional modules you can install for your bot. They are rather limited and have no translation feature but they can be used to add custom commands and very specific features to your bot. Some public add-ons [here](https://github.com/asanrom/Showdown-ChatBot/wiki#add-ons).
+Add-ons are like optional modules you can install for your bot. They are rather limited and have no translation feature but they can be used to add custom commands and very specific features to your bot.
 
 Contributing
 ------------
 
- - [Contributing guidelines](https://github.com/asanrom/Showdown-ChatBot/blob/master/CONTRIBUTING.md)
+ - [Contributing guidelines](https://github.com/PokelandServer/Eaubot/blob/master/CONTRIBUTING.md)
 
 Lisense
 ------------
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://opensource.org/licenses/MIT)
-
-Showdown ChatBot is distributed under the terms of the [MIT License](https://github.com/asanrom/Showdown-ChatBot/blob/master/LICENSE).
