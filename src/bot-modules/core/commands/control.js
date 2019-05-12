@@ -139,12 +139,6 @@ module.exports = {
 		this.addToSecurityLog();
 	},
 
-	version: function (App) {
-		this.setLangFile(Lang_File);
-		let reply = Chat.bold('Showdown ChatBot v' + App.env.package.version) + ' (' + App.env.package.homepage + ')';
-		this.restrictReply(reply, 'info');
-	},
-
 	time: function () {
 		this.setLangFile(Lang_File);
 		let date = new Date();
